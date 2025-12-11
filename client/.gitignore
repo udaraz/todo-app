@@ -1,0 +1,6 @@
+.DS_Store
+/.idea
+Thumbs.db
+
+# Dependencies
+node_modules/
